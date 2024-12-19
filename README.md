@@ -20,7 +20,7 @@
 This fork is in the experimental stage, and there are still a lot of unresolved issues. Do not use in a production environment.  
 So far, world loading and importing are available, safe spawn location and safe teleportation are disabled.  
 
-# About
+# About 
 
 [Multiverse](https://dev.bukkit.org/projects/multiverse-core) was created at the dawn of Bukkit multiworld support. It has since then grown into a **complete world management solution!** Multiverse provides the easiest to use world management solution for your Minecraft server, big or small, and with great addons like [Portals](https://dev.bukkit.org/projects/multiverse-portals) and [NetherPortals](https://dev.bukkit.org/projects/multiverse-netherportals/), what's not to love!
 
